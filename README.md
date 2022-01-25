@@ -1,6 +1,4 @@
-﻿<p align="center"> 
-[![SmartLearning][smartlearning-img]][smartlearning] 
-</p>
+﻿[![SmartLearning][smartlearning-img]][smartlearning] 
 
 Koden i dette repository bruges som undervisningsmateriale hos [SmartLearning].
 
